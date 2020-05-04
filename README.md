@@ -1,6 +1,6 @@
 # Fonctions diverses
 
-Ce repertoire permet de stocker différentes fonction sur python utiles :
+Ce repertoire permet de stocker différentes fonction utiles (python)  :
 
 > `box_named` : fonction qui permet d'afficher un box-plot d'une variable avec les outliers labélisés.
 
