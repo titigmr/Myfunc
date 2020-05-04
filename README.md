@@ -10,4 +10,4 @@ Ce repertoire permet de stocker différentes fonctions utiles (python)  :
 
 > `describe` : fonction qui permet d'afficher quelque statistiques descriptives et la distribution d'une variable quantitative.
 
-> `wordcloud` : fonction qui permet d'afficher un wordcloud selon un dictionnaire de mots
+> `wordcloud` : fonction qui permet d'afficher un wordcloud selon un texte (string).
