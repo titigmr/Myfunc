@@ -1,4 +1,4 @@
-def box_named(data, colums, vertical=True, fsize=12):
+ def box_named(data, colums, vertical=True, fsize=12):
     """
     Box-plot affichant les index des valeurs outliers.
 
