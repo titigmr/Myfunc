@@ -9,3 +9,5 @@ Ce repertoire permet de stocker différentes fonctions utiles (python)  :
 > `stop_words` : fonction qui permet d'importer le csv des stopwords.
 
 > `describe` : fonction qui permet d'afficher quelque statistiques descriptives et la distribution d'une variable quantitative.
+
+> `wordcloud` : fonction qui permet d'afficher un wordcloud selon un dictionnaire de mots
